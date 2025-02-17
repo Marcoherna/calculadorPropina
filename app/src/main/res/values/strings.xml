@@ -3,4 +3,6 @@
     <string name="calculate_tip">Calcular propina</string>
     <string name="bill_amount">Monto de la boleta</string>
     <string name="tip_amount">Cantidad de propina: %s</string>
+    <string name="how_was_the_service">Porcentaje de propina</string>
+    <string name="round_up_tip">¿Redondear la propina?</string>
 </resources>
