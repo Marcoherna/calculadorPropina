@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Tip Time</string>
+    <string name="calculate_tip">Calcular propina</string>
+    <string name="bill_amount">Monto de la boleta</string>
+    <string name="tip_amount">Cantidad de propina: %s</string>
+</resources>
